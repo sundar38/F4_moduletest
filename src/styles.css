@@ -1,0 +1,37 @@
+.navsection{
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+}
+.navsection a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+.loginform{
+    border: 1px solid black;
+   padding: 20px;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+.loginform input{
+    width: 500px;
+    height: 30px;
+}
+.error{
+    color: red;
+}
+.imagesection{
+    position: absolute;
+    left: 210px;
+}
+.entiresection{
+    display: flex;
+}
+.profilesection{
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 20px;
+}
