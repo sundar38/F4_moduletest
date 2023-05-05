@@ -11,11 +11,8 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path="/" element={<Login/>}></Route>
-        <Route path="/profile" element={<Profile/>}></Route>
-     
-
-      
-      </Routes>
+        <Route path="/profile" element={<Profile/>}></Route> 
+        </Routes>
       
     </div>
   );
